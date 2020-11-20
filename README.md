@@ -1,2 +1,1 @@
-# psychic-rotary-phone
-My first repoisitory on GitHub
+#My first repoisitory on GitHub
